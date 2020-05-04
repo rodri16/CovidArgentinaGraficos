@@ -1,15 +1,31 @@
-# CovidArgentinaGraficos
+# Covid-19 Coronavirus Argentina Graficos
 
 Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
 
 Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. 
 Con estos 4 datos armo mi mega base de datos "Covid19_Arg.txt" con los datos separados por comas.
 
+Despues con Python armo un notebook "Covid19_Arg_Python_notebook.ipynb" donde saco los graficos y tablas.
+
+## Datos
 Algunas veces el reporte de muertos esta una parte en el matutino y otra en el vespertino, es como que toman una franja de 12 hs y reportan los muertos desde las 9 a las 21 y de 21 a 9hs
 
 Datos curiosos al menos para mi: en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -19 en esa parte del territorio argentino"
 
 Los informes los saco de este link https://www.argentina.gob.ar/coronavirus/informe-diario
 
-Para obtener los datos rapido ya que los informes los publican con retardo sigo en Twitter a @norabar y @TotinFraire que hace un grafico buenisimo de la reparticion por provincias
+Para obtener los datos rapido ya que los informes los publican con retardo sigo en Twitter a https://twitter.com/norabar y https://twitter.com/TotinFraire que hace un grafico buenisimo de la reparticion por provincias
 
+Tambien hay un mega Base de datos de https://twitter.com/infomapache en https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit#gid=0
+## Otros links interesantes
+
+Reporte mundial https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+Graficos de casos mundiales del Financial Times de https://twitter.com/jburnmurdoch en https://www.ft.com/coronavirus-latest
+
+Graficos y reporte diario de Italia https://lab.gedidigital.it/gedi-visual/2020/coronavirus-i-contagi-in-italia
+
+Otra pagina con lindos graficos de Coronavirus https://ourworldindata.org/grapher/daily-deaths-covid-19?time=2020-03-08..&country=BRA+FRA+ITA+ESP+GBR
+
+
+Canal de Telegram con actualizaciones sobre el Covid en Italia https://t.me/covid19
