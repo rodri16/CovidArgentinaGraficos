@@ -35,7 +35,9 @@ Canal de Telegram con actualizaciones sobre el Covid en Italia https://t.me/covi
 
 ## Always Git remember...
 git add .
+
 git commit -m "Nuevos datos" 
+
 git push origin master
 
 
