@@ -1,4 +1,4 @@
-# Covid-19 Coronavirus Argentina Graficos
+# Covid-19 Coronavirus Argentina Graficos by RJC
 
 Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
 
@@ -14,13 +14,13 @@ En la carpeta csv_datos_completos, las tablas csv que fui armando dia a dia
 ## Datos
 Algunas veces el reporte de muertos esta una parte en el matutino y otra en el vespertino, es como que toman una franja de 12 hs y reportan los muertos desde las 9 a las 21 y de 21 a 9hs
 
-Datos curiosos al menos para mi: en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -19 en esa parte del territorio argentino"
-
 Los informes los saco de este link https://www.argentina.gob.ar/coronavirus/informe-diario
+Dato curioso (al menos para mi): en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -19 en esa parte del territorio argentino"
 
 Para obtener los datos rapido ya que los informes los publican con retardo sigo en Twitter a https://twitter.com/norabar y https://twitter.com/TotinFraire que hace un grafico buenisimo de la reparticion por provincias
 
-Tambien hay un mega Base de datos de https://twitter.com/infomapache en https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit#gid=0
+Tambien hay una mega Base de datos de https://twitter.com/infomapache en https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit#gid=0
+
 ## Otros links interesantes
 
 Reporte mundial https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
