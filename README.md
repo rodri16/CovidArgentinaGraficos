@@ -7,6 +7,10 @@ Con estos 4 datos armo mi mega base de datos "Covid19_Arg.txt" con los datos sep
 
 Despues con Python armo un notebook "Covid19_Arg_Python_notebook.ipynb" donde saco los graficos y tablas.
 
+En la carpeta Graficos encuentran todos los graficos... muchos, por dia unos 5/7.
+En la carpeta Reportes gobiernos, eso, los reportes del gobierno
+En la carpeta csv_datos_completos, las tablas csv que fui armando dia a dia
+
 ## Datos
 Algunas veces el reporte de muertos esta una parte en el matutino y otra en el vespertino, es como que toman una franja de 12 hs y reportan los muertos desde las 9 a las 21 y de 21 a 9hs
 
@@ -26,6 +30,12 @@ Graficos de casos mundiales del Financial Times de https://twitter.com/jburnmurd
 Graficos y reporte diario de Italia https://lab.gedidigital.it/gedi-visual/2020/coronavirus-i-contagi-in-italia
 
 Otra pagina con lindos graficos de Coronavirus https://ourworldindata.org/grapher/daily-deaths-covid-19?time=2020-03-08..&country=BRA+FRA+ITA+ESP+GBR
+
+##Always Git remember...
+git add .
+git commit -m "Nuevos datos" 
+git push origin master
+
 
 
 Canal de Telegram con actualizaciones sobre el Covid en Italia https://t.me/covid19
