@@ -31,11 +31,11 @@ Graficos y reporte diario de Italia https://lab.gedidigital.it/gedi-visual/2020/
 
 Otra pagina con lindos graficos de Coronavirus https://ourworldindata.org/grapher/daily-deaths-covid-19?time=2020-03-08..&country=BRA+FRA+ITA+ESP+GBR
 
-##Always Git remember...
+Canal de Telegram con actualizaciones sobre el Covid en Italia https://t.me/covid19
+
+## Always Git remember...
 git add .
 git commit -m "Nuevos datos" 
 git push origin master
 
 
-
-Canal de Telegram con actualizaciones sobre el Covid en Italia https://t.me/covid19
