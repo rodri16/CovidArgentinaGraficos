@@ -17,7 +17,9 @@ Algunas veces el reporte de muertos esta una parte en el matutino y otra en el v
 Los informes los saco de este link https://www.argentina.gob.ar/coronavirus/informe-diario
 Dato curioso (al menos para mi): en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -19 en esa parte del territorio argentino"
 
-Para obtener los datos rapido ya que los informes los publican con retardo sigo en Twitter a https://twitter.com/norabar y https://twitter.com/TotinFraire que hace un grafico buenisimo de la reparticion por provincias
+Para obtener los datos rapido ya que los informes los publican con retardo sigo en Twitter a https://twitter.com/norabar y https://twitter.com/TotinFraire que hace un grafico buenisimo de la reparticion por provincias.
+
+Tambien https://twitter.com/RGonzalez_PhD publica datos sobre el Covid con modelos epidemiologicos (demasiado para mi pero los graficos estan buenisimos) https://github.com/rodralez/covid-19
 
 Tambien hay una mega Base de datos de https://twitter.com/infomapache en https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit#gid=0
 
