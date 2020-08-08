@@ -2,6 +2,7 @@
 
 Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
 
+Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros, totales, tests, etc.
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/TasaDiariaLine_07Aug.png)
 
 Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. 
