@@ -3,21 +3,21 @@
 Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
 
 Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros en /Graficos, totales, tests, etc.
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Agosto/TasaDiariaLine_28Aug.png)
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Agosto/Todos_diario_sub_28Aug.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Agosto/TasaDiariaLine_29Aug.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Agosto/Todos_diario_sub_29Aug.png)
 
 Ej Totales
-![Ejemplo Grafico del total](/Graficos/Agosto/Contagios_tot_28Aug.png)
-![Ejemplo Grafico del total subplot](/Graficos/Agosto/Todos_tot_28Aug.png)
+![Ejemplo Grafico del total](/Graficos/Agosto/Contagios_tot_29Aug.png)
+![Ejemplo Grafico del total subplot](/Graficos/Agosto/Todos_tot_29Aug.png)
 
 Ej totales en escala logaritmica
-![Ejemplo Grafico del total logaritmico](/Graficos/Agosto/Contagios_totTests_log28Aug.png)
+![Ejemplo Grafico del total logaritmico](/Graficos/Agosto/Contagios_totTests_log29Aug.png)
 
 Ej total de tests diarios
-![Ejemplo tests diarios](/Graficos/Agosto/TestDiarioBar_28Aug.png)
+![Ejemplo tests diarios](/Graficos/Agosto/TestDiarioBar_29Aug.png)
 
 Ej relacion entre tests y positivos
-![Ejemplo relacion tests y positivos](/Graficos/Agosto/Tasa_Cont_Test28Aug.png)
+![Ejemplo relacion tests y positivos](/Graficos/Agosto/Tasa_Cont_Test29Aug.png)
 
 Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. 
 Con estos 4 datos armo mi mega base de datos "Covid19_Arg.txt" con los datos separados por comas.
