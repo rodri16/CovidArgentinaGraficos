@@ -6,7 +6,7 @@ Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros en /Grafico
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/Agosto/TasaDiariaLine_28Aug.png)
 ![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Agosto/Todos_diario_sub_28Aug.png)
 
-Ej Total.
+Ej Totales
 ![Ejemplo Grafico del total](/Graficos/Agosto/Contagios_tot_28Aug.png)
 ![Ejemplo Grafico del total subplot](/Graficos/Agosto/Todos_tot_28Aug.png)
 
