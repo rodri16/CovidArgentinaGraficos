@@ -8,7 +8,7 @@ Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros en /Grafico
 
 Ej Totales
 ![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_03Sep.png)
-![Ejemplo Grafico del total subplot](/Graficos/Septiembre/Todos_tot_03Sep.png)
+<!--- ![Ejemplo Grafico del total subplot](/Graficos/Septiembre/Todos_tot_03Sep.png)--->
 
 Ej totales en escala logaritmica
 ![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log03Sep.png)
