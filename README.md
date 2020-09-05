@@ -3,21 +3,21 @@
 Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
 
 Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros en /Graficos, totales, tests, etc.
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_04Sep.png)
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_04Sep.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_05Sep.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_05Sep.png)
 
 Ej Totales
-![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_04Sep.png)
+![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_05Sep.png)
 <!--- ![Ejemplo Grafico del total subplot](/Graficos/Septiembre/Todos_tot_03Sep.png)--->
 
 Ej totales en escala logaritmica
-![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log4Sep.png)
+![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log05Sep.png)
 
 Ej total de tests diarios
-![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_04Sep.png)
+![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_05Sep.png)
 
 Ej relacion entre tests y positivos
-![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test04Sep.png)
+![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test05Sep.png)
 
 Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. 
 Con estos 4 datos armo mi mega base de datos "Covid19_Arg.txt" con los datos separados por comas.
