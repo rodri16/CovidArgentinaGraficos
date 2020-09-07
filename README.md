@@ -4,7 +4,7 @@ Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a parti
 
 Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros en /Graficos, totales, tests, etc.
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_06Sep.png)
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_65Sep.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_05Sep.png)
 
 Ej Totales
 ![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_06Sep.png)
