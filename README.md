@@ -4,20 +4,24 @@ Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a parti
 
 Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros en /Graficos, totales, tests, etc.
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_15Sep.png)
+Tasas diarias en distintos graficos por separado
 ![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_15Sep.png)
 
 Tasa Diaria con una media de 7 dias
 ![Ejemplo Grafico con la Tasa Diaria con una media de 7 dias](/Graficos/Septiembre/TasaDiariaMA_15Sep.png)
 
+-----------
 Ej TOTALES
 ![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_15Sep.png)
 
 Ej totales en escala logaritmica
 ![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log15Sep.png)
 
+-----------
 Ej total de tests diarios
 ![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_15Sep.png)
 
+-----------
 Ej relacion entre tests y positivos
 ![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test15Sep.png)
 
