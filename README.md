@@ -4,6 +4,7 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 
 -----------
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
+
 Tasa diaria
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_15Sep.png)
 Tasas diarias en distintos graficos por separado
