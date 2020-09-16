@@ -1,8 +1,10 @@
 # Covid-19 Coronavirus Argentina Graficos by RJC
 
-Bueno aca dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
+En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
 
-Este es un ejemplo de grafico, de tasa diaria, pero hay muchos otros en /Graficos, totales, tests, etc.
+-----------
+Todos los dias actualizo los graficos que se pueden ver directamente aca...
+Tasa diaria
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_15Sep.png)
 Tasas diarias en distintos graficos por separado
 ![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_15Sep.png)
@@ -24,6 +26,9 @@ Ej total de tests diarios
 -----------
 Ej relacion entre tests y positivos
 ![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test15Sep.png)
+
+-----------
+Estos son ejemplso de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
 
 Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. 
 Con estos 4 datos armo mi mega base de datos "Covid19_Arg.txt" con los datos separados por comas.
