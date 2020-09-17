@@ -6,27 +6,27 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasa diaria
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_15Sep.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_16Sep.png)
 Tasas diarias en distintos graficos por separado
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_15Sep.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_16Sep.png)
 
 Tasa Diaria con una media de 7 dias
-![Ejemplo Grafico con la Tasa Diaria con una media de 7 dias](/Graficos/Septiembre/TasaDiariaMA_15Sep.png)
+![Ejemplo Grafico con la Tasa Diaria con una media de 7 dias](/Graficos/Septiembre/TasaDiariaMA_16Sep.png)
 
 -----------
 Ej TOTALES
-![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_15Sep.png)
+![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_16Sep.png)
 
 Ej totales en escala logaritmica
-![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log15Sep.png)
+![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log16Sep.png)
 
 -----------
 Ej total de tests diarios
-![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_15Sep.png)
+![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_16Sep.png)
 
 -----------
 Ej relacion entre tests y positivos
-![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test15Sep.png)
+![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test16Sep.png)
 
 -----------
 Estos son ejemplso de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
