@@ -7,11 +7,8 @@ Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasa diaria
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_20Sep.png)
-Tasas diarias en distintos graficos por separado
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/Todos_diario_sub_20Sep.png)
-
-Tasa Diaria con una media de 7 dias
-![Ejemplo Grafico con la Tasa Diaria con una media de 7 dias](/Graficos/Septiembre/TasaDiariaMA_20Sep.png)
+Tasas diarias en distintos graficos por separado con la media de 7 dias
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/TasaDiaria_MA_20Sep.png)
 
 -----------
 Ej TOTALES
