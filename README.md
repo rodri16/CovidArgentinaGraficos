@@ -5,24 +5,25 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 -----------
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
-Tasa diaria
+Tasa diaria de Contagios, Muertos y Recuperados
 ![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_22Sep.png)
-Tasas diarias en distintos graficos por separado con la media de 7 dias
+
+Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
 ![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/TasaDiaria_MA_22Sep.png)
 
 -----------
-Ej TOTALES
+TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
 ![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_22Sep.png)
 
-Ej totales en escala logaritmica
+Totales en escala logaritmica
 ![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log22Sep.png)
 
 -----------
-Ej total de tests diarios
+Total de pruebas diagnósticas (tests) diarias
 ![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_22Sep.png)
 
 -----------
-Ej relacion entre tests y positivos
+Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
 ![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test22Sep.png)
 
 -----------
