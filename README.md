@@ -6,25 +6,25 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasa diaria de Contagios, Muertos y Recuperados
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_27Sep.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Septiembre/TasaDiariaLine_28Sep.png)
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/TasaDiaria_MA_27Sep.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Septiembre/TasaDiaria_MA_28Sep.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_27Sep.png)
+![Ejemplo Grafico del total](/Graficos/Septiembre/Contagios_tot_28Sep.png)
 
 Totales en escala logaritmica
-![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log27Sep.png)
+![Ejemplo Grafico del total logaritmico](/Graficos/Septiembre/Contagios_totTests_log28Sep.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_27Sep.png)
+![Ejemplo tests diarios](/Graficos/Septiembre/TestDiarioBar_28Sep.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test27Sep.png)
+![Ejemplo relacion tests y positivos](/Graficos/Septiembre/Tasa_Cont_Test28Sep.png)
 
 -----------
 Estos son ejemplso de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
