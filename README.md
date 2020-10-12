@@ -6,25 +6,25 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasa diaria de Contagios, Muertos y Recuperados
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Octubre/TasaDiariaLine_10Oct.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Octubre/TasaDiariaLine_11Oct.png)
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Octubre/TasaDiaria_MA_10Oct.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Octubre/TasaDiaria_MA_11Oct.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/Octubre/Contagios_tot_10Oct.png)
+![Ejemplo Grafico del total](/Graficos/Octubre/Contagios_tot_11Oct.png)
 
 Totales en escala logaritmica
-![Ejemplo Grafico del total logaritmico](/Graficos/Octubre/Contagios_totTests_log10Oct.png)
+![Ejemplo Grafico del total logaritmico](/Graficos/Octubre/Contagios_totTests_log11Oct.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/Octubre/TestDiarioBar_10Oct.png)
+![Ejemplo tests diarios](/Graficos/Octubre/TestDiarioBar_11Oct.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/Octubre/Tasa_Cont_Test10Oct.png)
+![Ejemplo relacion tests y positivos](/Graficos/Octubre/Tasa_Cont_Test11Oct.png)
 
 -----------
 Estos son ejemplso de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
