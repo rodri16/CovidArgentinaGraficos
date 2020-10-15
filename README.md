@@ -6,25 +6,25 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasa diaria de Contagios, Muertos y Recuperados
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Octubre/TasaDiariaLine_13Oct.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Octubre/TasaDiariaLine_14Oct.png)
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Octubre/TasaDiaria_MA_13Oct.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Octubre/TasaDiaria_MA_14Oct.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/Octubre/Contagios_tot_13Oct.png)
+![Ejemplo Grafico del total](/Graficos/Octubre/Contagios_tot_14Oct.png)
 
 Totales en escala logaritmica
-![Ejemplo Grafico del total logaritmico](/Graficos/Octubre/Contagios_totTests_log13Oct.png)
+![Ejemplo Grafico del total logaritmico](/Graficos/Octubre/Contagios_totTests_log14Oct.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/Octubre/TestDiarioBar_13Oct.png)
+![Ejemplo tests diarios](/Graficos/Octubre/TestDiarioBar_14Oct.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/Octubre/Tasa_Cont_Test13Oct.png)
+![Ejemplo relacion tests y positivos](/Graficos/Octubre/Tasa_Cont_Test14Oct.png)
 
 -----------
 Estos son ejemplso de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
@@ -39,7 +39,7 @@ En la carpeta Reportes gobiernos, eso, los reportes del gobierno
 En la carpeta csv_datos_completos, las tablas csv que fui armando dia a dia
 
 ## Datos
-Algunas veces el reporte de muertos esta una parte en el matutino y otra en el vespertino, es como que toman una franja de 13 hs y reportan los muertos desde las 9 a las 21 y de 21 a 9hs
+Algunas veces el reporte de muertos esta una parte en el matutino y otra en el vespertino, es como que toman una franja de 14 hs y reportan los muertos desde las 9 a las 21 y de 21 a 9hs
 
 Los informes los saco de este link https://www.argentina.gob.ar/coronavirus/informe-diario
 Dato curioso (al menos para mi): en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -19 en esa parte del territorio argentino"
