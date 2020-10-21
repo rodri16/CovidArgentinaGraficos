@@ -6,33 +6,33 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasa diaria de Contagios, Muertos y Recuperados
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Octubre/TasaDiariaLine_19Oct.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Octubre/TasaDiariaLine_20Oct.png)
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Octubre/TasaDiaria_MA_19Oct.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Octubre/TasaDiaria_MA_20Oct.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/Octubre/Contagios_tot_19Oct.png)
+![Ejemplo Grafico del total](/Graficos/Octubre/Contagios_tot_20Oct.png)
 
 Totales en escala logaritmica
-![Ejemplo Grafico del total logaritmico](/Graficos/Octubre/Contagios_totTests_log19Oct.png)
+![Ejemplo Grafico del total logaritmico](/Graficos/Octubre/Contagios_totTests_log20Oct.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/Octubre/TestDiarioBar_19Oct.png)
+![Ejemplo tests diarios](/Graficos/Octubre/TestDiarioBar_20Oct.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/Octubre/Tasa_Cont_Test19Oct.png)
+![Ejemplo relacion tests y positivos](/Graficos/Octubre/Tasa_Cont_Test20Oct.png)
 
 -----------
 Estos son ejemplso de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
 
 Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. 
-Con estos 4 datos armo mi mega base de datos "Covid19_Arg.txt" con los datos separados por comas.
+Con estos 4 datos armo mi mega base de datos "Covid20_Arg.txt" con los datos separados por comas.
 
-Despues con Python armo un notebook "Covid19_Arg_Python_notebook.ipynb" donde saco los graficos y tablas.
+Despues con Python armo un notebook "Covid20_Arg_Python_notebook.ipynb" donde saco los graficos y tablas.
 
 En la carpeta Graficos encuentran todos los graficos... muchos, por dia unos 5/7.
 En la carpeta Reportes gobiernos, eso, los reportes del gobierno
