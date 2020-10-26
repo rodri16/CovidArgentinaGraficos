@@ -27,10 +27,10 @@ Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
 ![Ejemplo relacion tests y positivos](/Graficos/Octubre/Tasa_Cont_Test25Oct.png)
 
 -----------
-Estos son ejemplso de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
+Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
 
-Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. 
-Con estos 4 datos armo mi mega base de datos "Covid20_Arg.txt" con los datos separados por comas.
+Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. Desde OCtubre se publica un reporte al dia.
+Con estos 4 datos armo mi base de datos "Covid20_Arg.txt" con los datos separados por comas. (csv)
 
 Despues con Python armo un notebook "Covid20_Arg_Python_notebook.ipynb" donde saco los graficos y tablas.
 
