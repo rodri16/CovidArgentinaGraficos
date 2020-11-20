@@ -6,22 +6,22 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasa diaria de Contagios, Muertos y Recuperados
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Noviembre/TasaDiariaLine_18Nov.png)
+![Ejemplo Grafico con la Tasa Diaria](/Graficos/Noviembre/TasaDiariaLine_19Nov.png)
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Noviembre/TasaDiaria_MA_18Nov.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Noviembre/TasaDiaria_MA_19Nov.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/Noviembre/Contagios_tot_18Nov.png)
+![Ejemplo Grafico del total](/Graficos/Noviembre/Contagios_tot_19Nov.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/Noviembre/TestDiarioBar_18Nov.png)
+![Ejemplo tests diarios](/Graficos/Noviembre/TestDiarioBar_19Nov.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/Noviembre/Tasa_Cont_Test18Nov.png)
+![Ejemplo relacion tests y positivos](/Graficos/Noviembre/Tasa_Cont_Test19Nov.png)
 
 -----------
 Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
