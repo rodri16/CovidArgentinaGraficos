@@ -5,9 +5,6 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 -----------
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
-Tasa diaria de Contagios, Muertos y Recuperados
-![Ejemplo Grafico con la Tasa Diaria](/Graficos/Diciembre/TasaDiariaLine_09Dec.png)
-
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
 ![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Diciembre/TasaDiaria_MA_09Dec.png)
 
