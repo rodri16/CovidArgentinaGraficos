@@ -6,19 +6,19 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Diciembre/TasaDiaria_MA_29Dec.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/Diciembre/TasaDiaria_MA_30Dec.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/Diciembre/Contagios_tot_29Dec.png)
+![Ejemplo Grafico del total](/Graficos/Diciembre/Contagios_tot_30Dec.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/Diciembre/TestDiarioBar_29Dec.png)
+![Ejemplo tests diarios](/Graficos/Diciembre/TestDiarioBar_30Dec.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/Diciembre/Tasa_Cont_Test29Dec.png)
+![Ejemplo relacion tests y positivos](/Graficos/Diciembre/Tasa_Cont_Test30Dec.png)
 
 -----------
 Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
@@ -46,7 +46,7 @@ Tambien hay una mega Base de datos de https://twitter.com/infomapache en https:/
 
 ## Otros links interesantes
 
-Reporte mundial https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+Reporte mundial https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40309423467b48e9ecf6
 
 Graficos de casos mundiales del Financial Times de https://twitter.com/jburnmurdoch en https://www.ft.com/coronavirus-latest
 
