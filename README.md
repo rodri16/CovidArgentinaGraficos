@@ -6,19 +6,19 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Enero/TasaDiaria_MA_19Jan.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Enero/TasaDiaria_MA_20Jan.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/2021/Enero/Contagios_tot_19Jan.png)
+![Ejemplo Grafico del total](/Graficos/2021/Enero/Contagios_tot_20Jan.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2021/Enero/TestDiarioBar_19Jan.png)
+![Ejemplo tests diarios](/Graficos/2021/Enero/TestDiarioBar_20Jan.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2021/Enero/Tasa_Cont_Test19Jan.png)
+![Ejemplo relacion tests y positivos](/Graficos/2021/Enero/Tasa_Cont_Test20Jan.png)
 
 -----------
 Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
@@ -36,7 +36,7 @@ En la carpeta csv_datos_completos, las tablas csv que fui armando dia a dia
 Algunas veces el reporte de muertos esta una parte en el matutino y otra en el vespertino, es como que toman una franja de 14 hs y reportan los muertos desde las 9 a las 21 y de 21 a 9hs
 
 Los informes los saco de este link https://www.argentina.gob.ar/coronavirus/informe-diario
-Dato curioso (al menos para mi): en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -19 en esa parte del territorio argentino"
+Dato curioso (al menos para mi): en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -20 en esa parte del territorio argentino"
 
 Para obtener los datos rapido ya que los informes los publican con retardo sigo en Twitter a https://twitter.com/norabar y https://twitter.com/TotinFraire que hace un grafico buenisimo de la reparticion por provincias.
 
