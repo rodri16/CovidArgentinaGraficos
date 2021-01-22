@@ -321,4 +321,4 @@ Fecha,Contagios,Muertos,Recuperados_tot,Tests
 1/18/2021,8185,424,1594768,5592646 #Buenos Aires y Santa Fe, notificaron fallecimientos surgidos del entrecruzamiento de bases
 1/19/2021,12141,235,1604373,5642212
 1/20/2021,12112,147,1613773,5697210
-1/21/2021,1396,142,1625755,5751173
+1/21/2021,11396,142,1625755,5751173
