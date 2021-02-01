@@ -6,19 +6,19 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Enero/TasaDiaria_MA_31Jan.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Febrero/TasaDiaria_MA_01Jan.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/2021/Enero/Contagios_tot_31Jan.png)
+![Ejemplo Grafico del total](/Graficos/2021/Febrero/Contagios_tot_01Jan.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2021/Enero/TestDiarioBar_31Jan.png)
+![Ejemplo tests diarios](/Graficos/2021/Febrero/TestDiarioBar_01Jan.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2021/Enero/Tasa_Cont_Test31Jan.png)
+![Ejemplo relacion tests y positivos](/Graficos/2021/Febrero/Tasa_Cont_Test01Jan.png)
 
 -----------
 Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
