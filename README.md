@@ -9,7 +9,7 @@ Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
 ![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Febrero/TasaDiaria_MA_09Feb.png)
 
 -----------
-VCantidad de gente vacunada primera y segunda dosis.
+Cantidad de gente vacunada primera y segunda dosis.
 ![Vacunados primera y segunda dosis](/Graficos/2021/Febrero/Vacunas_09Feb.png)
 
 -----------
