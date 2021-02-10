@@ -18,7 +18,7 @@ TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2021/Febrero/TestDiarioBar_10Feb.png)
+![Ejemplo tests diarios](/Graficos/2021/Febrero/TestDiarioBar_09Feb.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
