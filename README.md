@@ -27,8 +27,7 @@ Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
 -----------
 Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
 
-Del reporte oficial del gobierno que publica periodicamente, saco los contagios y muertos diarios del reporte Vespertino. Del Matutino agarro los tests que hacen y los recuperados. Desde OCtubre se publica un reporte al dia.
-Con estos 4 datos armo mi base de datos "Covid20_Arg.txt" con los datos separados por comas. (csv)
+Desde Octubre se publica un reporte al dia con todos los datos. Con estos armo la base de datos "Covid20_Arg.txt" con los datos separados por comas. (csv)
 
 Despues con Python armo un notebook "Covid20_Arg_Python_notebook.ipynb" donde saco los graficos y tablas.
 
@@ -37,9 +36,11 @@ En la carpeta Reportes gobiernos, eso, los reportes del gobierno
 En la carpeta csv_datos_completos, las tablas csv que fui armando dia a dia
 
 ## Datos
-Algunas veces el reporte de muertos esta una parte en el matutino y otra en el vespertino, es como que toman una franja de 14 hs y reportan los muertos desde las 9 a las 21 y de 21 a 9hs
+Los datos se reportan una vez al dia, antes dos veces al dia..
 
 Los informes los saco de este link https://www.argentina.gob.ar/coronavirus/informe-diario
+La cantidad de vacunados aca https://www.argentina.gob.ar/coronavirus/vacuna
+
 Dato curioso (al menos para mi): en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -20 en esa parte del territorio argentino"
 
 Para obtener los datos rapido ya que los informes los publican con retardo sigo en Twitter a https://twitter.com/norabar y https://twitter.com/TotinFraire que hace un grafico buenisimo de la reparticion por provincias.
