@@ -10,7 +10,7 @@ Tasas diarias en distintos graficos por separado con la media de 7 dias en negro
 
 -----------
 Cantidad de gente vacunada primera y segunda dosis.
-![Vacunados primera y segunda dosis](/Graficos/2021/Febrero/Vacunas_10Feb.png)
+![Vacunados primera y segunda dosis](/Graficos/2021/Febrero/Vacunas_09Feb.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
@@ -18,7 +18,7 @@ TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2021/Febrero/TestDiarioBar_09Feb.png)
+![Ejemplo tests diarios](/Graficos/2021/Febrero/TestDiarioBar_10Feb.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
