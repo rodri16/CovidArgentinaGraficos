@@ -10,7 +10,7 @@ Tasas diarias en distintos graficos por separado con la media de 7 dias en color
 
 -----------
 Cantidad de gente vacunada primera y segunda dosis.
-![Vacunados primera y segunda dosis](/Graficos/2021/Febrero/Vacunas_18Feb.png)
+![Vacunados primera y segunda dosis](/Graficos/2021/Febrero/Vacunas_17Feb.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
