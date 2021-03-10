@@ -6,23 +6,23 @@ En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en color, en negro la variacion diaria.
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Marzo/TasaDiaria_MA_09Mar.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Marzo/TasaDiaria_MA_10Mar.png)
 
 -----------
 Cantidad de gente vacunada primera y segunda dosis.
-![Vacunados primera y segunda dosis](/Graficos/2021/Marzo/Vacunas_09Mar.png)
+![Vacunados primera y segunda dosis](/Graficos/2021/Marzo/Vacunas_10Mar.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/2021/Marzo/Contagios_tot_09Mar.png)
+![Ejemplo Grafico del total](/Graficos/2021/Marzo/Contagios_tot_10Mar.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2021/Marzo/TestDiarioBar_09Mar.png)
+![Ejemplo tests diarios](/Graficos/2021/Marzo/TestDiarioBar_10Mar.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2021/Marzo/Tasa_Cont_Test09Mar.png)
+![Ejemplo relacion tests y positivos](/Graficos/2021/Marzo/Tasa_Cont_Test10Mar.png)
 
 -----------
 Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
@@ -68,4 +68,8 @@ git commit -m "Nuevos datos"
 
 git push origin master
 
+## Run notebook in miniconda...
 
+(base) C:\Users\rodri>activate rodri
+
+(rodri) C:\Users\rodri>jupyter notebook
