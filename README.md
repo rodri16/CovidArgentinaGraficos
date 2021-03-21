@@ -36,10 +36,12 @@ En la carpeta Reportes gobiernos, eso, los reportes del gobierno
 En la carpeta csv_datos_completos, las tablas csv que fui armando dia a dia
 
 ## Datos
-Los datos se reportan una vez al dia, antes dos veces al dia..
+Los datos se reportan una vez al dia, antes dos veces al dia. 
 
 Los informes los saco de este link https://www.argentina.gob.ar/coronavirus/informe-diario
-La cantidad de vacunados aca https://www.argentina.gob.ar/coronavirus/vacuna
+Grafana con los datos en tiempo real https://www.argentina.gob.ar/salud/coronavirus-COVID-19/sala-situacion
+Vacunados en tiempo real  https://www.argentina.gob.ar/coronavirus/vacuna/aplicadas
+
 
 Dato curioso (al menos para mi): en Tierra del fuego se reportan los contagios de Malvinas y se aclara "debido a la ocupación ilegal del Reino Unido, Gran Bretaña e Irlanda del Norte no es posible contar con información propia sobre el impacto del COVID -20 en esa parte del territorio argentino"
 
