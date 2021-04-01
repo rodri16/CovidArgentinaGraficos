@@ -1,28 +1,28 @@
 # Covid-19 Coronavirus Argentina Graficos by RJC
 
-En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
+En este repositorio dejo el codigo, graficos y tablas que arme durante el Covid-19 a partir de Aprzo 2020 en Argentina.
 
 -----------
 Todos los dias actualizo los graficos que se pueden ver directamente aca...
 
 Tasas diarias en distintos graficos por separado con la media de 7 dias en color, en negro la variacion diaria.
-![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Marzo/TasaDiaria_MA_31Mar.png)
+![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Abril/TasaDiaria_MA_1Apr.png)
 
 -----------
 Cantidad de gente vacunada primera y segunda dosis.
-![Vacunados primera y segunda dosis](/Graficos/2021/Marzo/Vacunas_31Mar.png)
+![Vacunados primera y segunda dosis](/Graficos/2021/Abril/Vacunas_1Apr.png)
 
 -----------
 TOTALES Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/2021/Marzo/Contagios_tot_31Mar.png)
+![Ejemplo Grafico del total](/Graficos/2021/Abril/Contagios_tot_1Apr.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2021/Marzo/TestDiarioBar_31Mar.png)
+![Ejemplo tests diarios](/Graficos/2021/Abril/TestDiarioBar_1Apr.png)
 
 -----------
 Relacion entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2021/Marzo/Tasa_Cont_Test31Mar.png)
+![Ejemplo relacion tests y positivos](/Graficos/2021/Abril/Tasa_Cont_Test1Apr.png)
 
 -----------
 Estos son ejemplos de graficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
