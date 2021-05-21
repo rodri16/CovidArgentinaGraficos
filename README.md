@@ -3,9 +3,9 @@
 En este repositorio dejo el código, gráficos y tablas que arme durante el Covid-19 a partir de Marzo 2020 en Argentina.
 
 -----------
-Todos los días actualizo los gráficos que se pueden ver directamente aca...
+Todos los días actualizo los gráficos que se pueden ver directamente acá...
 
-Tasas diarias de contagios, muertos, recuperados y tests, calculo la media de 7 días que es la curva en color y en gris la variación diaria. Entre <> el valor de los ultimos 7 dias, Max y el valor actual se ven a la derecha del gráfico.
+Tasas diarias de contagios, muertos, recuperados y tests, calculo la media de 7 días que es la curva en color y en gris la variación diaria. Entre <> el valor de los últimos 7 días, Max es el valor máximo y el valor actual se ven a la derecha del gráfico.
 ![Ejemplo Grafico con la Tasa Diaria sublplot](/Graficos/2021/Mayo/TasaDiaria_MA_21May.png)
 
 -----------
