@@ -6,23 +6,23 @@ En este repositorio dejo el código, gráficos y tablas que arme durante el Covi
 Todos los días actualizo los gráficos que se pueden ver directamente acá...
 
 Tasas diarias de contagios, muertos, recuperados y tests, calculo la media de 7 días que es la curva en color y en gris la variación diaria. Entre <> el valor de los últimos 7 días, Max es el valor máximo y el valor actual se ven a la derecha del gráfico.
-![Ejemplo Grafico con la Tasa Diaria subplot](/Graficos/2021/Septiembre/TasaDiaria_MA_15Sep.png)
+![Ejemplo Grafico con la Tasa Diaria subplot](/Graficos/2021/Septiembre/TasaDiaria_MA_16Sep.png)
 
 -----------
 Cantidad de gente vacunada primera y segunda dosis.
-![Vacunados primera y segunda dosis](/Graficos/2021/Septiembre/Vacunas_15Sep.png)
+![Vacunados primera y segunda dosis](/Graficos/2021/Septiembre/Vacunas_16Sep.png)
 
 -----------
 TOTALES: Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/2021/Septiembre/Contagios_tot_15Sep.png)
+![Ejemplo Grafico del total](/Graficos/2021/Septiembre/Contagios_tot_16Sep.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2021/Septiembre/TestDiarioBar_15Sep.png)
+![Ejemplo tests diarios](/Graficos/2021/Septiembre/TestDiarioBar_16Sep.png)
 
 -----------
 Relación entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2021/Septiembre/Tasa_Cont_Test15Sep.png)
+![Ejemplo relacion tests y positivos](/Graficos/2021/Septiembre/Tasa_Cont_Test16Sep.png)
 
 -----------
 Estos son ejemplos de gráficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
