@@ -22,7 +22,7 @@ Total de pruebas diagnósticas (tests) diarias
 
 -----------
 Relación entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2021/Septiembre/Tasa_Cont_Test19Sep.png)
+![Ejemplo relacion tests y positivos](/Graficos/2021/Septiembre/Tasa_Cont_Test10Sep.png)
 
 -----------
 Estos son ejemplos de gráficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
