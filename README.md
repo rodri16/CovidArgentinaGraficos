@@ -6,23 +6,23 @@ En este repositorio dejo el código, gráficos y tablas que arme durante el Covi
 Todos los días actualizo los gráficos que se pueden ver directamente acá...
 
 Tasas diarias de contagios, muertos, recuperados y tests, calculo la media de 7 días que es la curva en color y en gris la variación diaria. Entre <> el valor de los últimos 7 días, Max es el valor máximo y el valor actual se ven a la derecha del gráfico.
-![Ejemplo Grafico con la Tasa Diaria subplot](/Graficos/2022/febrero/TasaDiaria_MA_22feb.png)
+![Ejemplo Grafico con la Tasa Diaria subplot](/Graficos/2022/febrero/TasaDiaria_MA_24feb.png)
 
 -----------
 Cantidad de gente vacunada primera, segunda y tercera dosis dosis. Tambien la cantidad total de dosis suministradas
-![Vacunados primera y segunda dosis](/Graficos/2022/febrero/Vacunas_22feb.png)
+![Vacunados primera y segunda dosis](/Graficos/2022/febrero/Vacunas_24feb.png)
 
 -----------
 TOTALES: Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/2022/febrero/Contagios_tot_22feb.png)
+![Ejemplo Grafico del total](/Graficos/2022/febrero/Contagios_tot_24feb.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2022/febrero/TestDiarioBar_22feb.png)
+![Ejemplo tests diarios](/Graficos/2022/febrero/TestDiarioBar_24feb.png)
 
 -----------
 Relación entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2022/febrero/Tasa_Cont_Test22feb.png)
+![Ejemplo relacion tests y positivos](/Graficos/2022/febrero/Tasa_Cont_Test24feb.png)
 
 -----------
 Estos son ejemplos de gráficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
@@ -53,7 +53,7 @@ También hay una mega Base de datos de https://twitter.com/infomapache en https:
 
 ## Otros links interesantes
 
-Reporte mundial https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594742fd40310423467b48e9ecf6
+Reporte mundial https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594744fd40310423467b48e9ecf6
 
 Gráficos de casos mundiales del Financial Times de https://twitter.com/jburnmurdoch en https://www.ft.com/coronavirus-latest
 
