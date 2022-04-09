@@ -6,23 +6,23 @@ En este repositorio dejo el código, gráficos y tablas que arme durante el Covi
 Todos los días actualizo los gráficos que se pueden ver directamente acá...
 
 Tasas diarias de contagios, muertos, recuperados y tests, calculo la media de 7 días que es la curva en color y en gris la variación diaria. Entre <> el valor de los últimos 7 días, Max es el valor máximo y el valor actual se ven a la derecha del gráfico.
-![Ejemplo Grafico con la Tasa Diaria subplot](/Graficos/2022/abril/TasaDiaria_MA_07abr.png)
+![Ejemplo Grafico con la Tasa Diaria subplot](/Graficos/2022/abril/TasaDiaria_MA_08abr.png)
 
 -----------
 Cantidad de gente vacunada primera, segunda y tercera dosis dosis. Tambien la cantidad total de dosis suministradas
-![Vacunados primera y segunda dosis](/Graficos/2022/abril/Vacunas_07abr.png)
+![Vacunados primera y segunda dosis](/Graficos/2022/abril/Vacunas_08abr.png)
 
 -----------
 TOTALES: Contagios, Muertos, recuperados y pruebas diagnósticas (tests)
-![Ejemplo Grafico del total](/Graficos/2022/abril/Contagios_tot_07abr.png)
+![Ejemplo Grafico del total](/Graficos/2022/abril/Contagios_tot_08abr.png)
 
 -----------
 Total de pruebas diagnósticas (tests) diarias
-![Ejemplo tests diarios](/Graficos/2022/abril/TestDiarioBar_07abr.png)
+![Ejemplo tests diarios](/Graficos/2022/abril/TestDiarioBar_08abr.png)
 
 -----------
 Relación entre Tests y positivos, el porcentaje de testeados que es positivo.
-![Ejemplo relacion tests y positivos](/Graficos/2022/abril/Tasa_Cont_Test07abr.png)
+![Ejemplo relacion tests y positivos](/Graficos/2022/abril/Tasa_Cont_Test08abr.png)
 
 -----------
 Estos son ejemplos de gráficos de tasa diaria, totales, tests, etc, pero hay muchos otros en /Graficos.
